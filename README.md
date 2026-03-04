@@ -280,6 +280,8 @@ These findings are only possible because **both datasets were analysed together*
 
 ![screenshots/product_dashboard.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Product_Reviews_%26_Pricing_Analysis_Dashboard.png)
 ![screenshots/revenue_dashboard.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Revenue_%26_Order_Performance_Dashboard.png)
+
+## 📊 Report Previews
 ![screenshots/report.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Product_Reviews_%26_Pricing_Analysis_Report.png)
 ![screenshots/report.png](https://github.com/soumimukherjee22/Amazon_Sales_Product_-_Revenue_Analysis_Excel/blob/main/Screenshots/Revenue_%26_Order_Performance_Report.png)
 
