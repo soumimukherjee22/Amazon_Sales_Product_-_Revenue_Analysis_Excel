@@ -1,4 +1,4 @@
-# 🛒 Amazon Sales Analysis — Data Analyst / MIS Portfolio Project
+# 🛒 Amazon Sales Analysis — Product & Revenue Analysis
 
 ![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
